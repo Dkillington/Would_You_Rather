@@ -1,0 +1,140 @@
+C:\[CODING] Projects\C#\Would You Rather\Would You Rather\bin\Debug\net8.0\Would You Rather.exe
+C:\[CODING] Projects\C#\Would You Rather\Would You Rather\bin\Debug\net8.0\Would You Rather.deps.json
+C:\[CODING] Projects\C#\Would You Rather\Would You Rather\bin\Debug\net8.0\Would You Rather.runtimeconfig.json
+C:\[CODING] Projects\C#\Would You Rather\Would You Rather\bin\Debug\net8.0\Would You Rather.dll
+C:\[CODING] Projects\C#\Would You Rather\Would You Rather\bin\Debug\net8.0\Would You Rather.pdb
+C:\[CODING] Projects\C#\Would You Rather\Would You Rather\obj\Debug\net8.0\Would You Rather.GeneratedMSBuildEditorConfig.editorconfig
+C:\[CODING] Projects\C#\Would You Rather\Would You Rather\obj\Debug\net8.0\Would You Rather.AssemblyInfoInputs.cache
+C:\[CODING] Projects\C#\Would You Rather\Would You Rather\obj\Debug\net8.0\Would You Rather.AssemblyInfo.cs
+C:\[CODING] Projects\C#\Would You Rather\Would You Rather\obj\Debug\net8.0\Would You Rather.csproj.CoreCompileInputs.cache
+C:\[CODING] Projects\C#\Would You Rather\Would You Rather\obj\Debug\net8.0\Would You Rather.dll
+C:\[CODING] Projects\C#\Would You Rather\Would You Rather\obj\Debug\net8.0\refint\Would You Rather.dll
+C:\[CODING] Projects\C#\Would You Rather\Would You Rather\obj\Debug\net8.0\Would You Rather.pdb
+C:\[CODING] Projects\C#\Would You Rather\Would You Rather\obj\Debug\net8.0\Would You Rather.genruntimeconfig.cache
+C:\[CODING] Projects\C#\Would You Rather\Would You Rather\obj\Debug\net8.0\ref\Would You Rather.dll
+C:\Coding_Projects\C#\Would You Rather\Would You Rather\bin\Debug\net8.0\Would You Rather.exe
+C:\Coding_Projects\C#\Would You Rather\Would You Rather\bin\Debug\net8.0\Would You Rather.deps.json
+C:\Coding_Projects\C#\Would You Rather\Would You Rather\bin\Debug\net8.0\Would You Rather.runtimeconfig.json
+C:\Coding_Projects\C#\Would You Rather\Would You Rather\bin\Debug\net8.0\Would You Rather.dll
+C:\Coding_Projects\C#\Would You Rather\Would You Rather\bin\Debug\net8.0\Would You Rather.pdb
+C:\Coding_Projects\C#\Would You Rather\Would You Rather\obj\Debug\net8.0\Would You Rather.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coding_Projects\C#\Would You Rather\Would You Rather\obj\Debug\net8.0\Would You Rather.AssemblyInfoInputs.cache
+C:\Coding_Projects\C#\Would You Rather\Would You Rather\obj\Debug\net8.0\Would You Rather.AssemblyInfo.cs
+C:\Coding_Projects\C#\Would You Rather\Would You Rather\obj\Debug\net8.0\Would You Rather.csproj.CoreCompileInputs.cache
+C:\Coding_Projects\C#\Would You Rather\Would You Rather\obj\Debug\net8.0\Would You Rather.dll
+C:\Coding_Projects\C#\Would You Rather\Would You Rather\obj\Debug\net8.0\refint\Would You Rather.dll
+C:\Coding_Projects\C#\Would You Rather\Would You Rather\obj\Debug\net8.0\Would You Rather.pdb
+C:\Coding_Projects\C#\Would You Rather\Would You Rather\obj\Debug\net8.0\Would You Rather.genruntimeconfig.cache
+C:\Coding_Projects\C#\Would You Rather\Would You Rather\obj\Debug\net8.0\ref\Would You Rather.dll
+C:\Coding_Projects\C#\Would You Rather\Would You Rather\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Coding_Projects\C#\Would You Rather\Would You Rather\bin\Debug\net8.0\ChatGPT.Net.dll
+C:\Coding_Projects\C#\Would You Rather\Would You Rather\bin\Debug\net8.0\ChatGPTAccess.dll
+C:\Coding_Projects\C#\Would You Rather\Would You Rather\bin\Debug\net8.0\ChatGPTAccess.pdb
+C:\Coding_Projects\C#\Would You Rather\Would You Rather\obj\Debug\net8.0\Would You Rather.csproj.AssemblyReference.cache
+C:\Coding_Projects\C#\Would You Rather\Would You Rather\obj\Debug\net8.0\Would Yo.C61A8000.Up2Date
+C:\Projects\C#\Would You Rather\Would You Rather\bin\Debug\net8.0\Would You Rather.exe
+C:\Projects\C#\Would You Rather\Would You Rather\bin\Debug\net8.0\Would You Rather.deps.json
+C:\Projects\C#\Would You Rather\Would You Rather\bin\Debug\net8.0\Would You Rather.runtimeconfig.json
+C:\Projects\C#\Would You Rather\Would You Rather\bin\Debug\net8.0\Would You Rather.dll
+C:\Projects\C#\Would You Rather\Would You Rather\bin\Debug\net8.0\Would You Rather.pdb
+C:\Projects\C#\Would You Rather\Would You Rather\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Projects\C#\Would You Rather\Would You Rather\bin\Debug\net8.0\ChatGPT.Net.dll
+C:\Projects\C#\Would You Rather\Would You Rather\bin\Debug\net8.0\ChatGPTAccess.dll
+C:\Projects\C#\Would You Rather\Would You Rather\bin\Debug\net8.0\ChatGPTAccess.pdb
+C:\Projects\C#\Would You Rather\Would You Rather\obj\Debug\net8.0\Would You Rather.csproj.AssemblyReference.cache
+C:\Projects\C#\Would You Rather\Would You Rather\obj\Debug\net8.0\Would You Rather.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\C#\Would You Rather\Would You Rather\obj\Debug\net8.0\Would You Rather.AssemblyInfoInputs.cache
+C:\Projects\C#\Would You Rather\Would You Rather\obj\Debug\net8.0\Would You Rather.AssemblyInfo.cs
+C:\Projects\C#\Would You Rather\Would You Rather\obj\Debug\net8.0\Would You Rather.csproj.CoreCompileInputs.cache
+C:\Projects\C#\Would You Rather\Would You Rather\obj\Debug\net8.0\Would Yo.C61A8000.Up2Date
+C:\Projects\C#\Would You Rather\Would You Rather\obj\Debug\net8.0\Would You Rather.dll
+C:\Projects\C#\Would You Rather\Would You Rather\obj\Debug\net8.0\refint\Would You Rather.dll
+C:\Projects\C#\Would You Rather\Would You Rather\obj\Debug\net8.0\Would You Rather.pdb
+C:\Projects\C#\Would You Rather\Would You Rather\obj\Debug\net8.0\Would You Rather.genruntimeconfig.cache
+C:\Projects\C#\Would You Rather\Would You Rather\obj\Debug\net8.0\ref\Would You Rather.dll
+C:\Projects\C#\Console Applications\[Games]\Would You Rather\Would You Rather\bin\Debug\net8.0\Would You Rather.exe
+C:\Projects\C#\Console Applications\[Games]\Would You Rather\Would You Rather\bin\Debug\net8.0\Would You Rather.deps.json
+C:\Projects\C#\Console Applications\[Games]\Would You Rather\Would You Rather\bin\Debug\net8.0\Would You Rather.runtimeconfig.json
+C:\Projects\C#\Console Applications\[Games]\Would You Rather\Would You Rather\bin\Debug\net8.0\Would You Rather.dll
+C:\Projects\C#\Console Applications\[Games]\Would You Rather\Would You Rather\bin\Debug\net8.0\Would You Rather.pdb
+C:\Projects\C#\Console Applications\[Games]\Would You Rather\Would You Rather\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Projects\C#\Console Applications\[Games]\Would You Rather\Would You Rather\bin\Debug\net8.0\ChatGPTAccess.dll
+C:\Projects\C#\Console Applications\[Games]\Would You Rather\Would You Rather\bin\Debug\net8.0\Functionality.dll
+C:\Projects\C#\Console Applications\[Games]\Would You Rather\Would You Rather\bin\Debug\net8.0\ChatGPTAccess.pdb
+C:\Projects\C#\Console Applications\[Games]\Would You Rather\Would You Rather\bin\Debug\net8.0\Functionality.pdb
+C:\Projects\C#\Console Applications\[Games]\Would You Rather\Would You Rather\obj\Debug\net8.0\Would You Rather.csproj.AssemblyReference.cache
+C:\Projects\C#\Console Applications\[Games]\Would You Rather\Would You Rather\obj\Debug\net8.0\Would You Rather.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\C#\Console Applications\[Games]\Would You Rather\Would You Rather\obj\Debug\net8.0\Would You Rather.AssemblyInfoInputs.cache
+C:\Projects\C#\Console Applications\[Games]\Would You Rather\Would You Rather\obj\Debug\net8.0\Would You Rather.AssemblyInfo.cs
+C:\Projects\C#\Console Applications\[Games]\Would You Rather\Would You Rather\obj\Debug\net8.0\Would You Rather.csproj.CoreCompileInputs.cache
+C:\Projects\C#\Console Applications\[Games]\Would You Rather\Would You Rather\obj\Debug\net8.0\Would Yo.C61A8000.Up2Date
+C:\Projects\C#\Console Applications\[Games]\Would You Rather\Would You Rather\obj\Debug\net8.0\Would You Rather.dll
+C:\Projects\C#\Console Applications\[Games]\Would You Rather\Would You Rather\obj\Debug\net8.0\refint\Would You Rather.dll
+C:\Projects\C#\Console Applications\[Games]\Would You Rather\Would You Rather\obj\Debug\net8.0\Would You Rather.pdb
+C:\Projects\C#\Console Applications\[Games]\Would You Rather\Would You Rather\obj\Debug\net8.0\Would You Rather.genruntimeconfig.cache
+C:\Projects\C#\Console Applications\[Games]\Would You Rather\Would You Rather\obj\Debug\net8.0\ref\Would You Rather.dll
+G:\Projects\C#\Console Applications\[Games]\Would You Rather\Would You Rather\bin\Debug\net8.0\Would You Rather.exe
+G:\Projects\C#\Console Applications\[Games]\Would You Rather\Would You Rather\bin\Debug\net8.0\Would You Rather.deps.json
+G:\Projects\C#\Console Applications\[Games]\Would You Rather\Would You Rather\bin\Debug\net8.0\Would You Rather.runtimeconfig.json
+G:\Projects\C#\Console Applications\[Games]\Would You Rather\Would You Rather\bin\Debug\net8.0\Would You Rather.dll
+G:\Projects\C#\Console Applications\[Games]\Would You Rather\Would You Rather\bin\Debug\net8.0\Would You Rather.pdb
+G:\Projects\C#\Console Applications\[Games]\Would You Rather\Would You Rather\bin\Debug\net8.0\Newtonsoft.Json.dll
+G:\Projects\C#\Console Applications\[Games]\Would You Rather\Would You Rather\bin\Debug\net8.0\ChatGPTAccess.dll
+G:\Projects\C#\Console Applications\[Games]\Would You Rather\Would You Rather\bin\Debug\net8.0\Functionality.dll
+G:\Projects\C#\Console Applications\[Games]\Would You Rather\Would You Rather\bin\Debug\net8.0\ChatGPTAccess.pdb
+G:\Projects\C#\Console Applications\[Games]\Would You Rather\Would You Rather\bin\Debug\net8.0\Functionality.pdb
+G:\Projects\C#\Console Applications\[Games]\Would You Rather\Would You Rather\obj\Debug\net8.0\Would You Rather.csproj.AssemblyReference.cache
+G:\Projects\C#\Console Applications\[Games]\Would You Rather\Would You Rather\obj\Debug\net8.0\Would You Rather.GeneratedMSBuildEditorConfig.editorconfig
+G:\Projects\C#\Console Applications\[Games]\Would You Rather\Would You Rather\obj\Debug\net8.0\Would You Rather.AssemblyInfoInputs.cache
+G:\Projects\C#\Console Applications\[Games]\Would You Rather\Would You Rather\obj\Debug\net8.0\Would You Rather.AssemblyInfo.cs
+G:\Projects\C#\Console Applications\[Games]\Would You Rather\Would You Rather\obj\Debug\net8.0\Would You Rather.csproj.CoreCompileInputs.cache
+G:\Projects\C#\Console Applications\[Games]\Would You Rather\Would You Rather\obj\Debug\net8.0\Would Yo.C61A8000.Up2Date
+G:\Projects\C#\Console Applications\[Games]\Would You Rather\Would You Rather\obj\Debug\net8.0\Would You Rather.dll
+G:\Projects\C#\Console Applications\[Games]\Would You Rather\Would You Rather\obj\Debug\net8.0\refint\Would You Rather.dll
+G:\Projects\C#\Console Applications\[Games]\Would You Rather\Would You Rather\obj\Debug\net8.0\Would You Rather.pdb
+G:\Projects\C#\Console Applications\[Games]\Would You Rather\Would You Rather\obj\Debug\net8.0\Would You Rather.genruntimeconfig.cache
+G:\Projects\C#\Console Applications\[Games]\Would You Rather\Would You Rather\obj\Debug\net8.0\ref\Would You Rather.dll
+G:\Projects\C#\Console Applications\[Games]\WouldYouRather\WouldYouRather\bin\Debug\net8.0\Would You Rather.exe
+G:\Projects\C#\Console Applications\[Games]\WouldYouRather\WouldYouRather\bin\Debug\net8.0\Would You Rather.deps.json
+G:\Projects\C#\Console Applications\[Games]\WouldYouRather\WouldYouRather\bin\Debug\net8.0\Would You Rather.runtimeconfig.json
+G:\Projects\C#\Console Applications\[Games]\WouldYouRather\WouldYouRather\bin\Debug\net8.0\Would You Rather.dll
+G:\Projects\C#\Console Applications\[Games]\WouldYouRather\WouldYouRather\bin\Debug\net8.0\Would You Rather.pdb
+G:\Projects\C#\Console Applications\[Games]\WouldYouRather\WouldYouRather\bin\Debug\net8.0\Newtonsoft.Json.dll
+G:\Projects\C#\Console Applications\[Games]\WouldYouRather\WouldYouRather\bin\Debug\net8.0\ChatGPTAccess.dll
+G:\Projects\C#\Console Applications\[Games]\WouldYouRather\WouldYouRather\bin\Debug\net8.0\Functionality.dll
+G:\Projects\C#\Console Applications\[Games]\WouldYouRather\WouldYouRather\bin\Debug\net8.0\ChatGPTAccess.pdb
+G:\Projects\C#\Console Applications\[Games]\WouldYouRather\WouldYouRather\bin\Debug\net8.0\Functionality.pdb
+G:\Projects\C#\Console Applications\[Games]\WouldYouRather\WouldYouRather\obj\Debug\net8.0\Would You Rather.csproj.AssemblyReference.cache
+G:\Projects\C#\Console Applications\[Games]\WouldYouRather\WouldYouRather\obj\Debug\net8.0\Would You Rather.GeneratedMSBuildEditorConfig.editorconfig
+G:\Projects\C#\Console Applications\[Games]\WouldYouRather\WouldYouRather\obj\Debug\net8.0\Would You Rather.AssemblyInfoInputs.cache
+G:\Projects\C#\Console Applications\[Games]\WouldYouRather\WouldYouRather\obj\Debug\net8.0\Would You Rather.AssemblyInfo.cs
+G:\Projects\C#\Console Applications\[Games]\WouldYouRather\WouldYouRather\obj\Debug\net8.0\Would You Rather.csproj.CoreCompileInputs.cache
+G:\Projects\C#\Console Applications\[Games]\WouldYouRather\WouldYouRather\obj\Debug\net8.0\Would You Rather.sourcelink.json
+G:\Projects\C#\Console Applications\[Games]\WouldYouRather\WouldYouRather\obj\Debug\net8.0\Would Yo.C61A8000.Up2Date
+G:\Projects\C#\Console Applications\[Games]\WouldYouRather\WouldYouRather\obj\Debug\net8.0\Would You Rather.dll
+G:\Projects\C#\Console Applications\[Games]\WouldYouRather\WouldYouRather\obj\Debug\net8.0\refint\Would You Rather.dll
+G:\Projects\C#\Console Applications\[Games]\WouldYouRather\WouldYouRather\obj\Debug\net8.0\Would You Rather.pdb
+G:\Projects\C#\Console Applications\[Games]\WouldYouRather\WouldYouRather\obj\Debug\net8.0\Would You Rather.genruntimeconfig.cache
+G:\Projects\C#\Console Applications\[Games]\WouldYouRather\WouldYouRather\obj\Debug\net8.0\ref\Would You Rather.dll
+G:\Projects\C#\Console Applications\[ChatGPT]\WouldYouRather\WouldYouRather\bin\Debug\net8.0\Would You Rather.exe
+G:\Projects\C#\Console Applications\[ChatGPT]\WouldYouRather\WouldYouRather\bin\Debug\net8.0\Would You Rather.deps.json
+G:\Projects\C#\Console Applications\[ChatGPT]\WouldYouRather\WouldYouRather\bin\Debug\net8.0\Would You Rather.runtimeconfig.json
+G:\Projects\C#\Console Applications\[ChatGPT]\WouldYouRather\WouldYouRather\bin\Debug\net8.0\Would You Rather.dll
+G:\Projects\C#\Console Applications\[ChatGPT]\WouldYouRather\WouldYouRather\bin\Debug\net8.0\Would You Rather.pdb
+G:\Projects\C#\Console Applications\[ChatGPT]\WouldYouRather\WouldYouRather\bin\Debug\net8.0\Newtonsoft.Json.dll
+G:\Projects\C#\Console Applications\[ChatGPT]\WouldYouRather\WouldYouRather\bin\Debug\net8.0\ChatGPTAccess.dll
+G:\Projects\C#\Console Applications\[ChatGPT]\WouldYouRather\WouldYouRather\bin\Debug\net8.0\Functionality.dll
+G:\Projects\C#\Console Applications\[ChatGPT]\WouldYouRather\WouldYouRather\bin\Debug\net8.0\ChatGPTAccess.pdb
+G:\Projects\C#\Console Applications\[ChatGPT]\WouldYouRather\WouldYouRather\bin\Debug\net8.0\Functionality.pdb
+G:\Projects\C#\Console Applications\[ChatGPT]\WouldYouRather\WouldYouRather\obj\Debug\net8.0\Would You Rather.csproj.AssemblyReference.cache
+G:\Projects\C#\Console Applications\[ChatGPT]\WouldYouRather\WouldYouRather\obj\Debug\net8.0\Would You Rather.GeneratedMSBuildEditorConfig.editorconfig
+G:\Projects\C#\Console Applications\[ChatGPT]\WouldYouRather\WouldYouRather\obj\Debug\net8.0\Would You Rather.AssemblyInfoInputs.cache
+G:\Projects\C#\Console Applications\[ChatGPT]\WouldYouRather\WouldYouRather\obj\Debug\net8.0\Would You Rather.AssemblyInfo.cs
+G:\Projects\C#\Console Applications\[ChatGPT]\WouldYouRather\WouldYouRather\obj\Debug\net8.0\Would You Rather.csproj.CoreCompileInputs.cache
+G:\Projects\C#\Console Applications\[ChatGPT]\WouldYouRather\WouldYouRather\obj\Debug\net8.0\Would You Rather.sourcelink.json
+G:\Projects\C#\Console Applications\[ChatGPT]\WouldYouRather\WouldYouRather\obj\Debug\net8.0\Would Yo.C61A8000.Up2Date
+G:\Projects\C#\Console Applications\[ChatGPT]\WouldYouRather\WouldYouRather\obj\Debug\net8.0\Would You Rather.dll
+G:\Projects\C#\Console Applications\[ChatGPT]\WouldYouRather\WouldYouRather\obj\Debug\net8.0\refint\Would You Rather.dll
+G:\Projects\C#\Console Applications\[ChatGPT]\WouldYouRather\WouldYouRather\obj\Debug\net8.0\Would You Rather.pdb
+G:\Projects\C#\Console Applications\[ChatGPT]\WouldYouRather\WouldYouRather\obj\Debug\net8.0\Would You Rather.genruntimeconfig.cache
+G:\Projects\C#\Console Applications\[ChatGPT]\WouldYouRather\WouldYouRather\obj\Debug\net8.0\ref\Would You Rather.dll
